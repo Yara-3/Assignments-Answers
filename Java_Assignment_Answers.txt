@@ -1,0 +1,37 @@
+                                                                     Answers
+Data Types, Variables & Operators
+
+Q1: C. String
+Q2: A. 3
+Q3: B. float price = 19.99f;
+Q4: C. 2
+Q5: C. 8 != 8
+Q6: B. *
+Q7: C. studentName
+Q8: 20
+Q9:
+5
+6
+Q10:
+6
+6
+Q11:
+3
+1
+Q12: true
+Q13: 13
+Q14: 22
+Q15: 12
+Q16: B. Wrong data type assigned
+Q17: B. "true" should be true
+Q18: C. Compilation Error
+
+Bonus:
+Output: 30
+Explanation:
+The expression is evaluated from left to right:
+1. a++ uses 5 (a becomes 6)
+2. b-- uses 10 (b becomes 9)
+3. ++a increments a to 7 and uses 7
+4. --b decrements b to 8 and uses 8
+Total = 5 + 10 + 7 + 8 = 30
